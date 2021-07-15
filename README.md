@@ -4,9 +4,10 @@ Nasdaq Cloud Data Service (NCDS) provides a modern and efficient method of deliv
 
 # Access Methods
 
-[Real-time REST API](https://github.com/Nasdaq/NasdaqCloudDataService-REST-API)
+REST API
+- [Real-time & Delayed](https://github.com/Nasdaq/NasdaqCloudDataService-REST-API)
 
-Streaming SDK's
+Streaming Client SDK's
  - [Java](https://github.com/Nasdaq/NasdaqCloudDataService-SDK-Java/blob/master/README.md)
  - Python (coming soon)
  - C++ (coming soon)
