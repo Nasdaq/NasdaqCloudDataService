@@ -9,5 +9,5 @@ Nasdaq Cloud Data Service (NCDS) provides a modern and efficient method of deliv
 
 ### Streaming Client SDK's
  - [Java](https://github.com/Nasdaq/NasdaqCloudDataService-SDK-Java/blob/master/README.md)
- - Python (coming soon)
+ - [Python](https://github.com/Nasdaq/NasdaqCloudDataService-SDK-Python/blob/master/README.md)
  - C++ (coming soon)
